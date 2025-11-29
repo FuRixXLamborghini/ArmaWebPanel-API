@@ -1,1 +1,1 @@
-http://57.131.28.140:3000
+https://vymumaenqenrsozcnvxx.supabase.co/functions
